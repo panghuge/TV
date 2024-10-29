@@ -1,0 +1,3155 @@
+[
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "setup_driver",
+        "importPath": "driver.setup",
+        "description": "driver.setup",
+        "isExtraImport": true,
+        "detail": "driver.setup",
+        "documentation": {}
+    },
+    {
+        "label": "setup_driver",
+        "importPath": "driver.setup",
+        "description": "driver.setup",
+        "isExtraImport": true,
+        "detail": "driver.setup",
+        "documentation": {}
+    },
+    {
+        "label": "setup_driver",
+        "importPath": "driver.setup",
+        "description": "driver.setup",
+        "isExtraImport": true,
+        "detail": "driver.setup",
+        "documentation": {}
+    },
+    {
+        "label": "setup_driver",
+        "importPath": "driver.setup",
+        "description": "driver.setup",
+        "isExtraImport": true,
+        "detail": "driver.setup",
+        "documentation": {}
+    },
+    {
+        "label": "setup_driver",
+        "importPath": "driver.setup",
+        "description": "driver.setup",
+        "isExtraImport": true,
+        "detail": "driver.setup",
+        "documentation": {}
+    },
+    {
+        "label": "retry_func",
+        "importPath": "utils.retry",
+        "description": "utils.retry",
+        "isExtraImport": true,
+        "detail": "utils.retry",
+        "documentation": {}
+    },
+    {
+        "label": "locate_element_with_retry",
+        "importPath": "utils.retry",
+        "description": "utils.retry",
+        "isExtraImport": true,
+        "detail": "utils.retry",
+        "documentation": {}
+    },
+    {
+        "label": "find_clickable_element_with_retry",
+        "importPath": "utils.retry",
+        "description": "utils.retry",
+        "isExtraImport": true,
+        "detail": "utils.retry",
+        "documentation": {}
+    },
+    {
+        "label": "retry_func",
+        "importPath": "utils.retry",
+        "description": "utils.retry",
+        "isExtraImport": true,
+        "detail": "utils.retry",
+        "documentation": {}
+    },
+    {
+        "label": "retry_func",
+        "importPath": "utils.retry",
+        "description": "utils.retry",
+        "isExtraImport": true,
+        "detail": "utils.retry",
+        "documentation": {}
+    },
+    {
+        "label": "find_clickable_element_with_retry",
+        "importPath": "utils.retry",
+        "description": "utils.retry",
+        "isExtraImport": true,
+        "detail": "utils.retry",
+        "documentation": {}
+    },
+    {
+        "label": "retry_func",
+        "importPath": "utils.retry",
+        "description": "utils.retry",
+        "isExtraImport": true,
+        "detail": "utils.retry",
+        "documentation": {}
+    },
+    {
+        "label": "find_clickable_element_with_retry",
+        "importPath": "utils.retry",
+        "description": "utils.retry",
+        "isExtraImport": true,
+        "detail": "utils.retry",
+        "documentation": {}
+    },
+    {
+        "label": "retry_func",
+        "importPath": "utils.retry",
+        "description": "utils.retry",
+        "isExtraImport": true,
+        "detail": "utils.retry",
+        "documentation": {}
+    },
+    {
+        "label": "find_clickable_element_with_retry",
+        "importPath": "utils.retry",
+        "description": "utils.retry",
+        "isExtraImport": true,
+        "detail": "utils.retry",
+        "documentation": {}
+    },
+    {
+        "label": "retry_func",
+        "importPath": "utils.retry",
+        "description": "utils.retry",
+        "isExtraImport": true,
+        "detail": "utils.retry",
+        "documentation": {}
+    },
+    {
+        "label": "retry_func",
+        "importPath": "utils.retry",
+        "description": "utils.retry",
+        "isExtraImport": true,
+        "detail": "utils.retry",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "NavigableString",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "get",
+        "importPath": "requests",
+        "description": "requests",
+        "isExtraImport": true,
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "requests",
+        "description": "requests",
+        "isExtraImport": true,
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "requests",
+        "description": "requests",
+        "isExtraImport": true,
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "exceptions",
+        "importPath": "requests",
+        "description": "requests",
+        "isExtraImport": true,
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "UserAgent",
+        "importPath": "fake_useragent",
+        "description": "fake_useragent",
+        "isExtraImport": true,
+        "detail": "fake_useragent",
+        "documentation": {}
+    },
+    {
+        "label": "tkinter",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "scrolledtext",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "scrolledtext",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageTk",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageTk",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "webbrowser",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "webbrowser",
+        "description": "webbrowser",
+        "detail": "webbrowser",
+        "documentation": {}
+    },
+    {
+        "label": "resource_path",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "resource_path",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "resource_path",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "save_config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "copy_config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "resource_path",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "resource_path",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "resource_path",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "resource_path",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "resource_path",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "SelectCombobox",
+        "importPath": "select_combobox",
+        "description": "select_combobox",
+        "isExtraImport": true,
+        "detail": "select_combobox",
+        "documentation": {}
+    },
+    {
+        "label": "SelectCombobox",
+        "importPath": "select_combobox",
+        "description": "select_combobox",
+        "isExtraImport": true,
+        "detail": "select_combobox",
+        "documentation": {}
+    },
+    {
+        "label": "updates.fofa.fofa_map",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "updates.fofa.fofa_map",
+        "description": "updates.fofa.fofa_map",
+        "detail": "updates.fofa.fofa_map",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateSource",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "create_task",
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "isExtraImport": true,
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "gather",
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "isExtraImport": true,
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "create_task",
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "isExtraImport": true,
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "gather",
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "isExtraImport": true,
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "Semaphore",
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "isExtraImport": true,
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "AboutUI",
+        "importPath": "about",
+        "description": "about",
+        "isExtraImport": true,
+        "detail": "about",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultUI",
+        "importPath": "default",
+        "description": "default",
+        "isExtraImport": true,
+        "detail": "default",
+        "documentation": {}
+    },
+    {
+        "label": "PreferUI",
+        "importPath": "prefer",
+        "description": "prefer",
+        "isExtraImport": true,
+        "detail": "prefer",
+        "documentation": {}
+    },
+    {
+        "label": "MulticastUI",
+        "importPath": "multicast",
+        "description": "multicast",
+        "isExtraImport": true,
+        "detail": "multicast",
+        "documentation": {}
+    },
+    {
+        "label": "HotelUI",
+        "importPath": "hotel",
+        "description": "hotel",
+        "isExtraImport": true,
+        "detail": "hotel",
+        "documentation": {}
+    },
+    {
+        "label": "SubscribeUI",
+        "importPath": "subscribe",
+        "description": "subscribe",
+        "isExtraImport": true,
+        "detail": "subscribe",
+        "documentation": {}
+    },
+    {
+        "label": "OnlineSearchUI",
+        "importPath": "online_search",
+        "description": "online_search",
+        "isExtraImport": true,
+        "detail": "online_search",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm_asyncio",
+        "importPath": "tqdm.asyncio",
+        "description": "tqdm.asyncio",
+        "isExtraImport": true,
+        "detail": "tqdm.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm_asyncio",
+        "importPath": "tqdm.asyncio",
+        "description": "tqdm.asyncio",
+        "isExtraImport": true,
+        "detail": "tqdm.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm_asyncio",
+        "importPath": "tqdm.asyncio",
+        "description": "tqdm.asyncio",
+        "isExtraImport": true,
+        "detail": "tqdm.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm_asyncio",
+        "importPath": "tqdm.asyncio",
+        "description": "tqdm.asyncio",
+        "isExtraImport": true,
+        "detail": "tqdm.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm_asyncio",
+        "importPath": "tqdm.asyncio",
+        "description": "tqdm.asyncio",
+        "isExtraImport": true,
+        "detail": "tqdm.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm_asyncio",
+        "importPath": "tqdm.asyncio",
+        "description": "tqdm.asyncio",
+        "isExtraImport": true,
+        "detail": "tqdm.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm_asyncio",
+        "importPath": "tqdm.asyncio",
+        "description": "tqdm.asyncio",
+        "isExtraImport": true,
+        "detail": "tqdm.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "as_completed",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "as_completed",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "as_completed",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "format_channel_name",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_results_from_multicast_soup",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_results_from_multicast_soup_requests",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_results_from_multicast_soup",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_results_from_multicast_soup_requests",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_channel_multicast_name_region_type_result",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_channel_multicast_region_type_list",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_channel_multicast_result",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_multicast_fofa_search_urls",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "format_channel_name",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_name_url",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "format_channel_name",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_results_from_soup",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_results_from_soup_requests",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_name_url",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "format_channel_name",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_channel_items",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "append_total_data",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "process_sort_channel_list",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "write_channel_to_file",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "setup_logging",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "cleanup_logging",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_channel_data_cache_with_compare",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "format_channel_url_info",
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "isExtraImport": true,
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "merge_objects",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_pbar_remaining",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_pbar_remaining",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_soup",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_pbar_remaining",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_soup",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "merge_objects",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_pbar_remaining",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "check_url_by_patterns",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_pbar_remaining",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_soup",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "format_url_with_cache",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "merge_objects",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_pbar_remaining",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "format_url_with_cache",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "check_url_by_patterns",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_total_urls_from_info_list",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "process_nested_dict",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_resolution_value",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "is_ipv6",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_resolution_value",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "update_file",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_pbar_remaining",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_ip_address",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "convert_to_m3u",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_result_file_content",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "process_nested_dict",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "format_interval",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "check_ipv6_support",
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "isExtraImport": true,
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_proxy",
+        "importPath": "updates.proxy",
+        "description": "updates.proxy",
+        "isExtraImport": true,
+        "detail": "updates.proxy",
+        "documentation": {}
+    },
+    {
+        "label": "get_proxy_next",
+        "importPath": "updates.proxy",
+        "description": "updates.proxy",
+        "isExtraImport": true,
+        "detail": "updates.proxy",
+        "documentation": {}
+    },
+    {
+        "label": "get_proxy",
+        "importPath": "updates.proxy",
+        "description": "updates.proxy",
+        "isExtraImport": true,
+        "detail": "updates.proxy",
+        "documentation": {}
+    },
+    {
+        "label": "get_proxy_next",
+        "importPath": "updates.proxy",
+        "description": "updates.proxy",
+        "isExtraImport": true,
+        "detail": "updates.proxy",
+        "documentation": {}
+    },
+    {
+        "label": "get_proxy",
+        "importPath": "updates.proxy",
+        "description": "updates.proxy",
+        "isExtraImport": true,
+        "detail": "updates.proxy",
+        "documentation": {}
+    },
+    {
+        "label": "get_proxy_next",
+        "importPath": "updates.proxy",
+        "description": "updates.proxy",
+        "isExtraImport": true,
+        "detail": "updates.proxy",
+        "documentation": {}
+    },
+    {
+        "label": "get_proxy",
+        "importPath": "updates.proxy",
+        "description": "updates.proxy",
+        "isExtraImport": true,
+        "detail": "updates.proxy",
+        "documentation": {}
+    },
+    {
+        "label": "get_proxy_next",
+        "importPath": "updates.proxy",
+        "description": "updates.proxy",
+        "isExtraImport": true,
+        "detail": "updates.proxy",
+        "documentation": {}
+    },
+    {
+        "label": "get_source_requests",
+        "importPath": "requests_custom.utils",
+        "description": "requests_custom.utils",
+        "isExtraImport": true,
+        "detail": "requests_custom.utils",
+        "documentation": {}
+    },
+    {
+        "label": "close_session",
+        "importPath": "requests_custom.utils",
+        "description": "requests_custom.utils",
+        "isExtraImport": true,
+        "detail": "requests_custom.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_soup_requests",
+        "importPath": "requests_custom.utils",
+        "description": "requests_custom.utils",
+        "isExtraImport": true,
+        "detail": "requests_custom.utils",
+        "documentation": {}
+    },
+    {
+        "label": "close_session",
+        "importPath": "requests_custom.utils",
+        "description": "requests_custom.utils",
+        "isExtraImport": true,
+        "detail": "requests_custom.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_soup_requests",
+        "importPath": "requests_custom.utils",
+        "description": "requests_custom.utils",
+        "isExtraImport": true,
+        "detail": "requests_custom.utils",
+        "documentation": {}
+    },
+    {
+        "label": "close_session",
+        "importPath": "requests_custom.utils",
+        "description": "requests_custom.utils",
+        "isExtraImport": true,
+        "detail": "requests_custom.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_soup_requests",
+        "importPath": "requests_custom.utils",
+        "description": "requests_custom.utils",
+        "isExtraImport": true,
+        "detail": "requests_custom.utils",
+        "documentation": {}
+    },
+    {
+        "label": "close_session",
+        "importPath": "requests_custom.utils",
+        "description": "requests_custom.utils",
+        "isExtraImport": true,
+        "detail": "requests_custom.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_soup_requests",
+        "importPath": "requests_custom.utils",
+        "description": "requests_custom.utils",
+        "isExtraImport": true,
+        "detail": "requests_custom.utils",
+        "documentation": {}
+    },
+    {
+        "label": "close_session",
+        "importPath": "requests_custom.utils",
+        "description": "requests_custom.utils",
+        "isExtraImport": true,
+        "detail": "requests_custom.utils",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "get_speed",
+        "importPath": "utils.speed",
+        "description": "utils.speed",
+        "isExtraImport": true,
+        "detail": "utils.speed",
+        "documentation": {}
+    },
+    {
+        "label": "get_speed",
+        "importPath": "utils.speed",
+        "description": "utils.speed",
+        "isExtraImport": true,
+        "detail": "utils.speed",
+        "documentation": {}
+    },
+    {
+        "label": "get_speed",
+        "importPath": "utils.speed",
+        "description": "utils.speed",
+        "isExtraImport": true,
+        "detail": "utils.speed",
+        "documentation": {}
+    },
+    {
+        "label": "sort_urls_by_speed_and_resolution",
+        "importPath": "utils.speed",
+        "description": "utils.speed",
+        "isExtraImport": true,
+        "detail": "utils.speed",
+        "documentation": {}
+    },
+    {
+        "label": "is_ffmpeg_installed",
+        "importPath": "utils.speed",
+        "description": "utils.speed",
+        "isExtraImport": true,
+        "detail": "utils.speed",
+        "documentation": {}
+    },
+    {
+        "label": "add_info_url",
+        "importPath": "utils.speed",
+        "description": "utils.speed",
+        "isExtraImport": true,
+        "detail": "utils.speed",
+        "documentation": {}
+    },
+    {
+        "label": "speed_cache",
+        "importPath": "utils.speed",
+        "description": "utils.speed",
+        "isExtraImport": true,
+        "detail": "utils.speed",
+        "documentation": {}
+    },
+    {
+        "label": "search_submit",
+        "importPath": "driver.utils",
+        "description": "driver.utils",
+        "isExtraImport": true,
+        "detail": "driver.utils",
+        "documentation": {}
+    },
+    {
+        "label": "search_submit",
+        "importPath": "driver.utils",
+        "description": "driver.utils",
+        "isExtraImport": true,
+        "detail": "driver.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_soup_driver",
+        "importPath": "driver.utils",
+        "description": "driver.utils",
+        "isExtraImport": true,
+        "detail": "driver.utils",
+        "documentation": {}
+    },
+    {
+        "label": "search_submit",
+        "importPath": "driver.utils",
+        "description": "driver.utils",
+        "isExtraImport": true,
+        "detail": "driver.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_soup_driver",
+        "importPath": "driver.utils",
+        "description": "driver.utils",
+        "isExtraImport": true,
+        "detail": "driver.utils",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.parse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "parse_qs",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "parse_qs",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "urlparse",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "get_channels_by_subscribe_urls",
+        "importPath": "updates.subscribe",
+        "description": "updates.subscribe",
+        "isExtraImport": true,
+        "detail": "updates.subscribe",
+        "documentation": {}
+    },
+    {
+        "label": "get_channels_by_subscribe_urls",
+        "importPath": "updates.subscribe",
+        "description": "updates.subscribe",
+        "isExtraImport": true,
+        "detail": "updates.subscribe",
+        "documentation": {}
+    },
+    {
+        "label": "get_channels_by_subscribe_urls",
+        "importPath": "updates.subscribe",
+        "description": "updates.subscribe",
+        "isExtraImport": true,
+        "detail": "updates.subscribe",
+        "documentation": {}
+    },
+    {
+        "label": "get_channels_by_fofa",
+        "importPath": "updates.fofa",
+        "description": "updates.fofa",
+        "isExtraImport": true,
+        "detail": "updates.fofa",
+        "documentation": {}
+    },
+    {
+        "label": "get_channels_by_fofa",
+        "importPath": "updates.fofa",
+        "description": "updates.fofa",
+        "isExtraImport": true,
+        "detail": "updates.fofa",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "RotatingFileHandler",
+        "importPath": "logging.handlers",
+        "description": "logging.handlers",
+        "isExtraImport": true,
+        "detail": "logging.handlers",
+        "documentation": {}
+    },
+    {
+        "label": "OpenCC",
+        "importPath": "opencc",
+        "description": "opencc",
+        "isExtraImport": true,
+        "detail": "opencc",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "copy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "copy",
+        "description": "copy",
+        "detail": "copy",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "configparser",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "configparser",
+        "description": "configparser",
+        "detail": "configparser",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "TimeoutException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ClientSession",
+        "importPath": "aiohttp",
+        "description": "aiohttp",
+        "isExtraImport": true,
+        "detail": "aiohttp",
+        "documentation": {}
+    },
+    {
+        "label": "TCPConnector",
+        "importPath": "aiohttp",
+        "description": "aiohttp",
+        "isExtraImport": true,
+        "detail": "aiohttp",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "ipaddress",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ipaddress",
+        "description": "ipaddress",
+        "detail": "ipaddress",
+        "documentation": {}
+    },
+    {
+        "label": "socket",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "socket",
+        "description": "socket",
+        "detail": "socket",
+        "documentation": {}
+    },
+    {
+        "label": "render_template_string",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "send_file",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template_string",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "get_channels_by_multicast",
+        "importPath": "updates.multicast",
+        "description": "updates.multicast",
+        "isExtraImport": true,
+        "detail": "updates.multicast",
+        "documentation": {}
+    },
+    {
+        "label": "get_channels_by_hotel",
+        "importPath": "updates.hotel",
+        "description": "updates.hotel",
+        "isExtraImport": true,
+        "detail": "updates.hotel",
+        "documentation": {}
+    },
+    {
+        "label": "get_channels_by_online_search",
+        "importPath": "updates.online_search",
+        "description": "updates.online_search",
+        "isExtraImport": true,
+        "detail": "updates.online_search",
+        "documentation": {}
+    },
+    {
+        "label": "atexit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "atexit",
+        "description": "atexit",
+        "detail": "atexit",
+        "documentation": {}
+    },
+    {
+        "label": "setup_driver",
+        "kind": 2,
+        "importPath": "driver.setup",
+        "description": "driver.setup",
+        "peekOfCode": "def setup_driver(proxy=None):\n    \"\"\"\n    Setup the driver for selenium\n    \"\"\"\n    options = webdriver.ChromeOptions()\n    options.add_argument(\"start-maximized\")\n    options.add_argument(\"--headless\")\n    options.add_argument(\"--disable-gpu\")\n    options.add_experimental_option(\"excludeSwitches\", [\"enable-logging\"])\n    options.add_experimental_option(\"useAutomationExtension\", False)",
+        "detail": "driver.setup",
+        "documentation": {}
+    },
+    {
+        "label": "get_soup_driver",
+        "kind": 2,
+        "importPath": "driver.utils",
+        "description": "driver.utils",
+        "peekOfCode": "def get_soup_driver(url):\n    \"\"\"\n    Get the soup by driver\n    \"\"\"\n    driver = setup_driver()\n    retry_func(lambda: driver.get(url), name=url)\n    sleep(1)\n    source = re.sub(\n        r\"<!--.*?-->\",\n        \"\",",
+        "detail": "driver.utils",
+        "documentation": {}
+    },
+    {
+        "label": "search_submit",
+        "kind": 2,
+        "importPath": "driver.utils",
+        "description": "driver.utils",
+        "peekOfCode": "def search_submit(driver, name):\n    \"\"\"\n    Input key word and submit with driver\n    \"\"\"\n    search_box = locate_element_with_retry(driver, (By.XPATH, '//input[@type=\"text\"]'))\n    if not search_box:\n        return\n    search_box.clear()\n    search_box.send_keys(name)\n    submit_button = find_clickable_element_with_retry(",
+        "detail": "driver.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_source_requests",
+        "kind": 2,
+        "importPath": "requests_custom.utils",
+        "description": "requests_custom.utils",
+        "peekOfCode": "def get_source_requests(url, data=None, proxy=None, timeout=30):\n    \"\"\"\n    Get the source by requests\n    \"\"\"\n    proxies = {\"http\": proxy}\n    ua = UserAgent()\n    headers[\"User-Agent\"] = ua.random\n    if data:\n        response = session.post(\n            url, headers=headers, data=data, proxies=proxies, timeout=timeout",
+        "detail": "requests_custom.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_soup_requests",
+        "kind": 2,
+        "importPath": "requests_custom.utils",
+        "description": "requests_custom.utils",
+        "peekOfCode": "def get_soup_requests(url, data=None, proxy=None, timeout=30):\n    \"\"\"\n    Get the soup by requests\n    \"\"\"\n    source = get_source_requests(url, data, proxy, timeout)\n    soup = BeautifulSoup(source, \"html.parser\")\n    return soup\ndef close_session():\n    \"\"\"\n    Close the requests session",
+        "detail": "requests_custom.utils",
+        "documentation": {}
+    },
+    {
+        "label": "close_session",
+        "kind": 2,
+        "importPath": "requests_custom.utils",
+        "description": "requests_custom.utils",
+        "peekOfCode": "def close_session():\n    \"\"\"\n    Close the requests session\n    \"\"\"\n    session.close()",
+        "detail": "requests_custom.utils",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "requests_custom.utils",
+        "description": "requests_custom.utils",
+        "peekOfCode": "headers = {\n    \"Accept\": \"*/*\",\n    \"Connection\": \"keep-alive\",\n    \"Accept-Language\": \"zh-CN,zh;q=0.8\",\n    \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36\",\n}\nsession = requests.Session()\ndef get_source_requests(url, data=None, proxy=None, timeout=30):\n    \"\"\"\n    Get the source by requests",
+        "detail": "requests_custom.utils",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "kind": 5,
+        "importPath": "requests_custom.utils",
+        "description": "requests_custom.utils",
+        "peekOfCode": "session = requests.Session()\ndef get_source_requests(url, data=None, proxy=None, timeout=30):\n    \"\"\"\n    Get the source by requests\n    \"\"\"\n    proxies = {\"http\": proxy}\n    ua = UserAgent()\n    headers[\"User-Agent\"] = ua.random\n    if data:\n        response = session.post(",
+        "detail": "requests_custom.utils",
+        "documentation": {}
+    },
+    {
+        "label": "AboutUI",
+        "kind": 6,
+        "importPath": "tkinter_ui.about",
+        "description": "tkinter_ui.about",
+        "peekOfCode": "class AboutUI:\n    def init_ui(self, root=None, version=None):\n        about_window = tk.Toplevel(root)\n        about_window.title(\"关于\")\n        about_window_width = 430\n        about_window_height = 480\n        version_frame = tk.Frame(about_window)\n        version_frame.pack(side=tk.TOP, fill=tk.X)\n        version_label = tk.Label(version_frame, text=f\"版本: {version}\")\n        version_label.pack()",
+        "detail": "tkinter_ui.about",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultUI",
+        "kind": 6,
+        "importPath": "tkinter_ui.default",
+        "description": "tkinter_ui.default",
+        "peekOfCode": "class DefaultUI:\n    def init_ui(self, root):\n        \"\"\"\n        Init default UI\n        \"\"\"\n        frame_default_open_update = tk.Frame(root)\n        frame_default_open_update.pack(fill=tk.X)\n        frame_default_open_update_column1 = tk.Frame(frame_default_open_update)\n        frame_default_open_update_column1.pack(side=tk.LEFT, fill=tk.Y)\n        frame_default_open_update_column2 = tk.Frame(frame_default_open_update)",
+        "detail": "tkinter_ui.default",
+        "documentation": {}
+    },
+    {
+        "label": "HotelUI",
+        "kind": 6,
+        "importPath": "tkinter_ui.hotel",
+        "description": "tkinter_ui.hotel",
+        "peekOfCode": "class HotelUI:\n    def init_ui(self, root):\n        \"\"\"\n        Init hotel UI\n        \"\"\"\n        frame_hotel_open_hotel = tk.Frame(root)\n        frame_hotel_open_hotel.pack(fill=tk.X)\n        self.open_hotel_label = tk.Label(\n            frame_hotel_open_hotel, text=\"开启酒店源:\", width=9\n        )",
+        "detail": "tkinter_ui.hotel",
+        "documentation": {}
+    },
+    {
+        "label": "MulticastUI",
+        "kind": 6,
+        "importPath": "tkinter_ui.multicast",
+        "description": "tkinter_ui.multicast",
+        "peekOfCode": "class MulticastUI:\n    def init_ui(self, root):\n        \"\"\"\n        Init multicast UI\n        \"\"\"\n        frame_multicast_multicast = tk.Frame(root)\n        frame_multicast_multicast.pack(fill=tk.X)\n        self.open_multicast_label = tk.Label(\n            frame_multicast_multicast, text=\"开启组播源:\", width=9\n        )",
+        "detail": "tkinter_ui.multicast",
+        "documentation": {}
+    },
+    {
+        "label": "OnlineSearchUI",
+        "kind": 6,
+        "importPath": "tkinter_ui.online_search",
+        "description": "tkinter_ui.online_search",
+        "peekOfCode": "class OnlineSearchUI:\n    def init_ui(self, root):\n        \"\"\"\n        Init online search UI\n        \"\"\"\n        frame_online_search_open_online_search = tk.Frame(root)\n        frame_online_search_open_online_search.pack(fill=tk.X)\n        self.open_online_search_label = tk.Label(\n            frame_online_search_open_online_search, text=\"开启关键字搜索:\", width=13\n        )",
+        "detail": "tkinter_ui.online_search",
+        "documentation": {}
+    },
+    {
+        "label": "PreferUI",
+        "kind": 6,
+        "importPath": "tkinter_ui.prefer",
+        "description": "tkinter_ui.prefer",
+        "peekOfCode": "class PreferUI:\n    def init_ui(self, root=None):\n        \"\"\"\n        Init prefer UI\n        \"\"\"\n        origin_type_prefer = [\n            item.lower()\n            for item in config.get(\n                \"Settings\",\n                \"origin_type_prefer\",",
+        "detail": "tkinter_ui.prefer",
+        "documentation": {}
+    },
+    {
+        "label": "IpvNumInput",
+        "kind": 6,
+        "importPath": "tkinter_ui.prefer",
+        "description": "tkinter_ui.prefer",
+        "peekOfCode": "class IpvNumInput:\n    def __init__(self, master, ipv_type):\n        self.master = master\n        self.ipv_type = ipv_type\n        self.frame = tk.Frame(master)\n        self.frame.pack(fill=tk.X)\n        self.frame_column1 = tk.Frame(self.frame)\n        self.frame_column1.pack(side=tk.LEFT, fill=tk.Y)\n        self.frame_column2 = tk.Frame(self.frame)\n        self.frame_column2.pack(side=tk.RIGHT, fill=tk.Y)",
+        "detail": "tkinter_ui.prefer",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigOption",
+        "kind": 6,
+        "importPath": "tkinter_ui.prefer",
+        "description": "tkinter_ui.prefer",
+        "peekOfCode": "class ConfigOption:\n    def __init__(self, master, label_text, combo_box_value):\n        self.master = master\n        self.label_text = label_text\n        self.combo_box_value = combo_box_value\n        self.frame = tk.Frame(master)\n        self.frame.pack(fill=tk.X)\n        self.column1 = tk.Frame(self.frame)\n        self.column1.pack(side=tk.LEFT, fill=tk.Y)\n        self.column2 = tk.Frame(self.frame)",
+        "detail": "tkinter_ui.prefer",
+        "documentation": {}
+    },
+    {
+        "label": "SelectCombobox",
+        "kind": 6,
+        "importPath": "tkinter_ui.select_combobox",
+        "description": "tkinter_ui.select_combobox",
+        "peekOfCode": "class SelectCombobox(ttk.Combobox):\n    def __init__(self, master=None, **kwargs):\n        selected_values = kwargs.pop(\"selected_values\", [])\n        values = kwargs.pop(\"values\", [])\n        command = kwargs.pop(\"command\", None)\n        super().__init__(master, **kwargs)\n        self.selected_values = selected_values\n        self.values = values\n        self.command = command\n        self[\"values\"] = self.values",
+        "detail": "tkinter_ui.select_combobox",
+        "documentation": {}
+    },
+    {
+        "label": "SubscribeUI",
+        "kind": 6,
+        "importPath": "tkinter_ui.subscribe",
+        "description": "tkinter_ui.subscribe",
+        "peekOfCode": "class SubscribeUI:\n    def init_ui(self, root):\n        \"\"\"\n        Init subscribe UI\n        \"\"\"\n        frame_subscribe_open_subscribe = tk.Frame(root)\n        frame_subscribe_open_subscribe.pack(fill=tk.X)\n        self.open_subscribe_label = tk.Label(\n            frame_subscribe_open_subscribe, text=\"开启订阅源:\", width=9\n        )",
+        "detail": "tkinter_ui.subscribe",
+        "documentation": {}
+    },
+    {
+        "label": "TkinterUI",
+        "kind": 6,
+        "importPath": "tkinter_ui.tkinter_ui",
+        "description": "tkinter_ui.tkinter_ui",
+        "peekOfCode": "class TkinterUI:\n    def __init__(self, root):\n        with open(resource_path(\"version.json\"), \"r\", encoding=\"utf-8\") as f:\n            info = json.load(f)\n        self.root = root\n        self.root.title(info.get(\"name\", \"\"))\n        self.version = info.get(\"version\", \"\")\n        self.about_ui = AboutUI()\n        self.default_ui = DefaultUI()\n        self.prefer_ui = PreferUI()",
+        "detail": "tkinter_ui.tkinter_ui",
+        "documentation": {}
+    },
+    {
+        "label": "get_root_location",
+        "kind": 2,
+        "importPath": "tkinter_ui.tkinter_ui",
+        "description": "tkinter_ui.tkinter_ui",
+        "peekOfCode": "def get_root_location(root):\n    screen_width = root.winfo_screenwidth()\n    screen_height = root.winfo_screenheight()\n    width = 550\n    height = 720\n    x = (screen_width / 2) - (width / 2)\n    y = (screen_height / 2) - (height / 2)\n    return (width, height, x, y)\nif __name__ == \"__main__\":\n    root = tk.Tk()",
+        "detail": "tkinter_ui.tkinter_ui",
+        "documentation": {}
+    },
+    {
+        "label": "region_url",
+        "kind": 5,
+        "importPath": "updates.fofa.fofa_map",
+        "description": "updates.fofa.fofa_map",
+        "peekOfCode": "region_url = {\n    \"广东\": [\n        \"https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIHJlZ2lvbj0iR3Vhbmdkb25nIg%3D%3D\",\n        \"https://www.zoomeye.org/searchResult?q=%2Fiptv%2Flive%2Fzh_cn.js%20%2Bcountry%3A%22CN%22%20%2Bsubdivisions%3A%22guangdong%22\",\n    ],\n    \"北京\": [\n        \"https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIHJlZ2lvbj0iQmVpamluZyI%3D\",\n        \"https://www.zoomeye.org/searchResult?q=%2Fiptv%2Flive%2Fzh_cn.js%20%2Bcountry%3A%22CN%22%20%2Bsubdivisions%3A%22beijing%22\",\n    ],\n    \"湖南\": [",
+        "detail": "updates.fofa.fofa_map",
+        "documentation": {}
+    },
+    {
+        "label": "get_fofa_urls_from_region_list",
+        "kind": 2,
+        "importPath": "updates.fofa.request",
+        "description": "updates.fofa.request",
+        "peekOfCode": "def get_fofa_urls_from_region_list():\n    \"\"\"\n    Get the FOFA url from region\n    \"\"\"\n    region_list = [\n        region.strip()\n        for region in config.get(\n            \"Settings\", \"hotel_region_list\", fallback=\"全部\"\n        ).split(\",\")\n        if region.strip()",
+        "detail": "updates.fofa.request",
+        "documentation": {}
+    },
+    {
+        "label": "update_fofa_region_result_tmp",
+        "kind": 2,
+        "importPath": "updates.fofa.request",
+        "description": "updates.fofa.request",
+        "peekOfCode": "def update_fofa_region_result_tmp(result, multicast=False):\n    \"\"\"\n    Update fofa region result tmp\n    \"\"\"\n    tmp_result = get_fofa_region_result_tmp(multicast=multicast)\n    total_result = merge_objects(tmp_result, result)\n    with open(\n        resource_path(\n            f\"updates/fofa/fofa_{'multicast' if multicast else 'hotel'}_region_result.pkl\"\n        ),",
+        "detail": "updates.fofa.request",
+        "documentation": {}
+    },
+    {
+        "label": "get_fofa_region_result_tmp",
+        "kind": 2,
+        "importPath": "updates.fofa.request",
+        "description": "updates.fofa.request",
+        "peekOfCode": "def get_fofa_region_result_tmp(multicast: False):\n    with open(\n        resource_path(\n            f\"updates/fofa/fofa_{'multicast' if multicast else 'hotel'}_region_result.pkl\"\n        ),\n        \"rb\",\n    ) as file:\n        result = pickle.load(file)\n        return result\nasync def get_channels_by_fofa(urls=None, multicast=False, callback=None):",
+        "detail": "updates.fofa.request",
+        "documentation": {}
+    },
+    {
+        "label": "process_fofa_json_url",
+        "kind": 2,
+        "importPath": "updates.fofa.request",
+        "description": "updates.fofa.request",
+        "peekOfCode": "def process_fofa_json_url(url, open_sort):\n    \"\"\"\n    Process the FOFA json url\n    \"\"\"\n    channels = {}\n    try:\n        final_url = url + \"/iptv/live/1000.json?key=txiptv\"\n        # response = retry_func(\n        #     lambda: get(final_url, timeout=timeout),\n        #     name=final_url,",
+        "detail": "updates.fofa.request",
+        "documentation": {}
+    },
+    {
+        "label": "timeout",
+        "kind": 5,
+        "importPath": "updates.fofa.request",
+        "description": "updates.fofa.request",
+        "peekOfCode": "timeout = config.getint(\"Settings\", \"request_timeout\", fallback=10)\ndef get_fofa_urls_from_region_list():\n    \"\"\"\n    Get the FOFA url from region\n    \"\"\"\n    region_list = [\n        region.strip()\n        for region in config.get(\n            \"Settings\", \"hotel_region_list\", fallback=\"全部\"\n        ).split(\",\")",
+        "detail": "updates.fofa.request",
+        "documentation": {}
+    },
+    {
+        "label": "get_region_urls_from_IPTV_Multicast_source",
+        "kind": 2,
+        "importPath": "updates.multicast.update_tmp",
+        "description": "updates.multicast.update_tmp",
+        "peekOfCode": "def get_region_urls_from_IPTV_Multicast_source():\n    \"\"\"\n    Get the region urls from IPTV_Multicast_source\n    \"\"\"\n    region_url = {}\n    origin_url = \"https://github.com/xisohi/IPTV-Multicast-source/blob/main/README.md\"\n    soup = get_soup_driver(origin_url)\n    tbody = soup.find(\"tbody\")\n    trs = tbody.find_all(\"tr\") if tbody else []\n    for tr in trs:",
+        "detail": "updates.multicast.update_tmp",
+        "documentation": {}
+    },
+    {
+        "label": "get_multicast_urls_info_from_region_list",
+        "kind": 2,
+        "importPath": "updates.multicast.update_tmp",
+        "description": "updates.multicast.update_tmp",
+        "peekOfCode": "def get_multicast_urls_info_from_region_list():\n    \"\"\"\n    Get the multicast urls info from region\n    \"\"\"\n    urls_info = []\n    with open(\n        resource_path(\"updates/multicast/multicast_map.json\"), \"r\", encoding=\"utf-8\"\n    ) as f:\n        region_url = json.load(f)\n        urls_info = [",
+        "detail": "updates.multicast.update_tmp",
+        "documentation": {}
+    },
+    {
+        "label": "get_multicast_region_type_result_txt",
+        "kind": 2,
+        "importPath": "updates.multicast.update_tmp",
+        "description": "updates.multicast.update_tmp",
+        "peekOfCode": "def get_multicast_region_type_result_txt():\n    \"\"\"\n    Get multicast region type result txt\n    \"\"\"\n    with open(\n        resource_path(\"updates/multicast/multicast_map.json\"), \"r\", encoding=\"utf-8\"\n    ) as f:\n        region_url = json.load(f)\n        session = Session()\n        for region, value in region_url.items():",
+        "detail": "updates.multicast.update_tmp",
+        "documentation": {}
+    },
+    {
+        "label": "get_multicast_region_result_by_rtp_txt",
+        "kind": 2,
+        "importPath": "updates.multicast.update_tmp",
+        "description": "updates.multicast.update_tmp",
+        "peekOfCode": "def get_multicast_region_result_by_rtp_txt(callback=None):\n    \"\"\"\n    Get multicast region result by rtp txt\n    \"\"\"\n    rtp_path = resource_path(\"config/rtp\")\n    config_region_list = set(\n        region.strip()\n        for region in config.get(\n            \"Settings\", \"multicast_region_list\", fallback=\"全部\"\n        ).split(\",\")",
+        "detail": "updates.multicast.update_tmp",
+        "documentation": {}
+    },
+    {
+        "label": "timeout",
+        "kind": 5,
+        "importPath": "updates.online_search.request",
+        "description": "updates.online_search.request",
+        "peekOfCode": "timeout = config.getint(\"Settings\", \"request_timeout\", fallback=10)\nasync def use_accessible_url(callback):\n    \"\"\"\n    Check if the url is accessible\n    \"\"\"\n    callback(f\"正在获取最优的关键字搜索节点\", 0)\n    baseUrl1 = \"https://www.foodieguide.com/iptvsearch/\"\n    baseUrl2 = \"http://tonkiang.us/\"\n    task1 = create_task(get_speed(baseUrl1, timeout=timeout))\n    task2 = create_task(get_speed(baseUrl2, timeout=timeout))",
+        "detail": "updates.online_search.request",
+        "documentation": {}
+    },
+    {
+        "label": "get_proxy_list",
+        "kind": 2,
+        "importPath": "updates.proxy.request",
+        "description": "updates.proxy.request",
+        "peekOfCode": "def get_proxy_list(page_count=1):\n    \"\"\"\n    Get proxy list, parameter page_count is the number of pages to get\n    \"\"\"\n    url_pattern = [\n        \"https://www.zdaye.com/free/{}/\",\n        \"https://www.kuaidaili.com/free/inha/{}/\",\n        \"https://www.kuaidaili.com/free/intr/{}/\",\n    ]\n    proxy_list = []",
+        "detail": "updates.proxy.request",
+        "documentation": {}
+    },
+    {
+        "label": "timeout",
+        "kind": 5,
+        "importPath": "updates.subscribe.request",
+        "description": "updates.subscribe.request",
+        "peekOfCode": "timeout = config.getint(\"Settings\", \"request_timeout\", fallback=10)\nasync def get_channels_by_subscribe_urls(\n    urls,\n    multicast=False,\n    hotel=False,\n    retry=True,\n    error_print=True,\n    with_cache=False,\n    callback=None,\n):",
+        "detail": "updates.subscribe.request",
+        "documentation": {}
+    },
+    {
+        "label": "setup_logging",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def setup_logging():\n    \"\"\"\n    Setup logging\n    \"\"\"\n    global handler\n    if not os.path.exists(log_dir):\n        os.makedirs(log_dir)\n    handler = RotatingFileHandler(log_path, encoding=\"utf-8\")\n    logging.basicConfig(\n        handlers=[handler],",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "cleanup_logging",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def cleanup_logging():\n    \"\"\"\n    Cleanup logging\n    \"\"\"\n    global handler\n    if handler:\n        for handler in logging.root.handlers[:]:\n            handler.close()\n            logging.root.removeHandler(handler)\n    if os.path.exists(log_path):",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_name_url",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def get_name_url(content, m3u=False, rtp=False, check_url=True):\n    \"\"\"\n    Get channel name and url from content\n    \"\"\"\n    regex = m3u_regex if m3u else rtp_regex if rtp else txt_regex\n    matches = re.findall(regex, content, re.MULTILINE)\n    channels = [\n        {\"name\": match[0].strip(), \"url\": match[1].strip()}\n        for match in matches\n        if (check_url and match[1].strip()) or not check_url",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_channel_data_from_file",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def get_channel_data_from_file(channels, file, use_old):\n    \"\"\"\n    Get the channel data from the file\n    \"\"\"\n    current_category = \"\"\n    for line in file:\n        line = line.strip()\n        if \"#genre#\" in line:\n            current_category = line.split(\",\")[0]\n        else:",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_channel_items",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def get_channel_items():\n    \"\"\"\n    Get the channel items from the source file\n    \"\"\"\n    user_source_file = config.get(\"Settings\", \"source_file\", fallback=\"config/demo.txt\")\n    channels = defaultdict(lambda: defaultdict(list))\n    open_use_old_result = config.getboolean(\n        \"Settings\", \"open_use_old_result\", fallback=True\n    )\n    if os.path.exists(resource_path(user_source_file)):",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "format_channel_name",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def format_channel_name(name):\n    \"\"\"\n    Format the channel name with sub and replace and lower\n    \"\"\"\n    if open_keep_all:\n        return name\n    cc = OpenCC(\"t2s\")\n    name = cc.convert(name)\n    sub_pattern = r\"-|_|\\((.*?)\\)|\\（(.*?)\\）|\\[(.*?)\\]|\\「(.*?)\\」| |｜|频道|普清|标清|高清|HD|hd|超清|超高|超高清|中央|央视|台|电信|联通|移动\"\n    name = re.sub(sub_pattern, \"\", name)",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "channel_name_is_equal",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def channel_name_is_equal(name1, name2):\n    \"\"\"\n    Check if the channel name is equal\n    \"\"\"\n    if open_keep_all:\n        return True\n    name1_format = format_channel_name(name1)\n    name2_format = format_channel_name(name2)\n    return name1_format == name2_format\ndef get_channel_results_by_name(name, data):",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_channel_results_by_name",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def get_channel_results_by_name(name, data):\n    \"\"\"\n    Get channel results from data by name\n    \"\"\"\n    format_name = format_channel_name(name)\n    cc = OpenCC(\"s2t\")\n    name_s2t = cc.convert(format_name)\n    result1 = data.get(format_name, [])\n    result2 = data.get(name_s2t, [])\n    results = list(dict.fromkeys(result1 + result2))",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_element_child_text_list",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def get_element_child_text_list(element, child_name):\n    \"\"\"\n    Get the child text of the element\n    \"\"\"\n    text_list = []\n    children = element.find_all(child_name)\n    if children:\n        for child in children:\n            text = child.get_text(strip=True)\n            if text:",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_multicast_ip_list",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def get_multicast_ip_list(urls):\n    \"\"\"\n    Get the multicast ip list from urls\n    \"\"\"\n    ip_list = []\n    for url in urls:\n        pattern = r\"rtp://((\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3})(?::(\\d+))?)\"\n        matcher = re.search(pattern, url)\n        if matcher:\n            ip_list.append(matcher.group(1))",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_channel_multicast_region_ip_list",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def get_channel_multicast_region_ip_list(result, channel_region, channel_type):\n    \"\"\"\n    Get the channel multicast region ip list by region and type from result\n    \"\"\"\n    return [\n        ip\n        for result_region, result_obj in result.items()\n        if result_region in channel_region\n        for type, urls in result_obj.items()\n        if type in channel_type",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_channel_multicast_name_region_type_result",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def get_channel_multicast_name_region_type_result(result, names):\n    \"\"\"\n    Get the multicast name and region and type result by names from result\n    \"\"\"\n    name_region_type_result = {}\n    for name in names:\n        format_name = format_channel_name(name)\n        data = result.get(format_name)\n        if data:\n            name_region_type_result[format_name] = data",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_channel_multicast_region_type_list",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def get_channel_multicast_region_type_list(result):\n    \"\"\"\n    Get the channel multicast region type list from result\n    \"\"\"\n    config_region_list = set(\n        region.strip()\n        for region in config.get(\n            \"Settings\", \"multicast_region_list\", fallback=\"全部\"\n        ).split(\",\")\n        if region.strip()",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_channel_multicast_result",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def get_channel_multicast_result(result, search_result):\n    \"\"\"\n    Get the channel multicast info result by result and search result\n    \"\"\"\n    info_result = {}\n    open_sort = config.getboolean(\"Settings\", \"open_sort\", fallback=True)\n    for name, result_obj in result.items():\n        info_list = [\n            (\n                (",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_results_from_soup",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def get_results_from_soup(soup, name):\n    \"\"\"\n    Get the results from the soup\n    \"\"\"\n    results = []\n    for element in soup.descendants:\n        if isinstance(element, NavigableString):\n            text = element.get_text(strip=True)\n            url = get_channel_url(text)\n            if url and not any(item[0] == url for item in results):",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_results_from_multicast_soup",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def get_results_from_multicast_soup(soup, hotel=False):\n    \"\"\"\n    Get the results from the multicast soup\n    \"\"\"\n    results = []\n    for element in soup.descendants:\n        if isinstance(element, NavigableString):\n            text = element.strip()\n            if \"失效\" in text:\n                continue",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_results_from_soup_requests",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def get_results_from_soup_requests(soup, name):\n    \"\"\"\n    Get the results from the soup by requests\n    \"\"\"\n    results = []\n    elements = soup.find_all(\"div\", class_=\"resultplus\") if soup else []\n    for element in elements:\n        name_element = element.find(\"div\", class_=\"channel\")\n        if name_element:\n            channel_name = name_element.get_text(strip=True)",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_results_from_multicast_soup_requests",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def get_results_from_multicast_soup_requests(soup, hotel=False):\n    \"\"\"\n    Get the results from the multicast soup by requests\n    \"\"\"\n    results = []\n    if not soup:\n        return results\n    elements = soup.find_all(\"div\", class_=\"result\")\n    for element in elements:\n        name_element = element.find(\"div\", class_=\"channel\")",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "update_channel_urls_txt",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def update_channel_urls_txt(cate, name, urls, callback=None):\n    \"\"\"\n    Update the category and channel urls to the final file\n    \"\"\"\n    genre_line = cate + \",#genre#\\n\"\n    filename = \"output/result_new.txt\"\n    if not os.path.exists(filename):\n        open(filename, \"w\").close()\n    with open(filename, \"r\", encoding=\"utf-8\") as f:\n        content = f.read()",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_channel_url",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def get_channel_url(text):\n    \"\"\"\n    Get the url from text\n    \"\"\"\n    url = None\n    url_search = re.search(\n        url_regex,\n        text,\n    )\n    if url_search:",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_channel_info",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def get_channel_info(text):\n    \"\"\"\n    Get the channel info from text\n    \"\"\"\n    date, resolution = None, None\n    if text:\n        date, resolution = (\n            (text.partition(\" \")[0] if text.partition(\" \")[0] else None),\n            (\n                text.partition(\" \")[2].partition(\"•\")[2]",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_multicast_channel_info",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def get_multicast_channel_info(text):\n    \"\"\"\n    Get the multicast channel info from text\n    \"\"\"\n    date, region, type = None, None, None\n    if text:\n        text_split = text.split(\" \")\n        filtered_data = list(filter(lambda x: x.strip() != \"\", text_split))\n        if filtered_data and len(filtered_data) == 4:\n            date = filtered_data[0]",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "init_info_data",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def init_info_data(data, cate, name):\n    \"\"\"\n    Init channel info data\n    \"\"\"\n    if data.get(cate) is None:\n        data[cate] = {}\n    if data[cate].get(name) is None:\n        data[cate][name] = []\ndef append_data_to_info_data(info_data, cate, name, data, origin=None, check=True):\n    \"\"\"",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "append_data_to_info_data",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def append_data_to_info_data(info_data, cate, name, data, origin=None, check=True):\n    \"\"\"\n    Append channel data to total info data\n    \"\"\"\n    init_info_data(info_data, cate, name)\n    for item in data:\n        try:\n            url, date, resolution, *rest = item\n            origin = origin or (rest[0] if rest else None)\n            if (url and not check) or (url and check and check_url_by_patterns(url)):",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "append_total_data",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def append_total_data(*args, **kwargs):\n    \"\"\"\n    Append total channel data\n    \"\"\"\n    if open_keep_all:\n        append_all_method_data_keep_all(*args, **kwargs)\n    else:\n        append_all_method_data(*args, **kwargs)\ndef append_all_method_data(\n    items,",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "append_all_method_data",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def append_all_method_data(\n    items,\n    data,\n    hotel_fofa_result=None,\n    multicast_result=None,\n    hotel_tonkiang_result=None,\n    subscribe_result=None,\n    online_search_result=None,\n):\n    \"\"\"",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "append_all_method_data_keep_all",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def append_all_method_data_keep_all(\n    items,\n    data,\n    hotel_fofa_result=None,\n    multicast_result=None,\n    hotel_tonkiang_result=None,\n    subscribe_result=None,\n    online_search_result=None,\n):\n    \"\"\"",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "write_channel_to_file",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def write_channel_to_file(items, data, ipv6=False, callback=None):\n    \"\"\"\n    Write channel to file\n    \"\"\"\n    open_update_time = config.getboolean(\"Settings\", \"open_update_time\", fallback=True)\n    if open_update_time:\n        now = datetime.datetime.now()\n        if os.environ.get(\"GITHUB_ACTIONS\"):\n            now += datetime.timedelta(hours=8)\n        update_time = now.strftime(\"%Y-%m-%d %H:%M:%S\")",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_multicast_fofa_search_org",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def get_multicast_fofa_search_org(region, type):\n    \"\"\"\n    Get the fofa search organization for multicast\n    \"\"\"\n    org = None\n    if region == \"北京\" and type == \"联通\":\n        org = \"China Unicom Beijing Province Network\"\n    elif type == \"联通\":\n        org = \"CHINA UNICOM China169 Backbone\"\n    elif type == \"电信\":",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_multicast_fofa_search_urls",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def get_multicast_fofa_search_urls():\n    \"\"\"\n    Get the fofa search urls for multicast\n    \"\"\"\n    config_region_list = [\n        region.strip()\n        for region in config.get(\n            \"Settings\", \"multicast_region_list\", fallback=\"全部\"\n        ).split(\",\")\n        if region.strip()",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "get_channel_data_cache_with_compare",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def get_channel_data_cache_with_compare(data, new_data):\n    \"\"\"\n    Get channel data with cache compare new data\n    \"\"\"\n    for cate, obj in new_data.items():\n        for name, url_info in obj.items():\n            if url_info and cate in data and name in data[cate]:\n                new_urls = {\n                    new_url.split(\"$\", 1)[0]: new_resolution\n                    for new_url, _, new_resolution, _ in url_info",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "format_channel_url_info",
+        "kind": 2,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "def format_channel_url_info(data):\n    \"\"\"\n    Format channel url info, remove cache, add resolution to url\n    \"\"\"\n    for obj in data.values():\n        for url_info in obj.values():\n            for i, (url, date, resolution, origin) in enumerate(url_info):\n                url = url.split(\"$\", 1)[0]\n                if resolution:\n                    url = add_info_url(url, resolution)",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "log_dir",
+        "kind": 5,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "log_dir = \"output\"\nlog_file = \"result_new.log\"\nlog_path = os.path.join(log_dir, log_file)\nhandler = None\nurl_regex = r\"\\b((https?):\\/\\/)?(\\[[0-9a-fA-F:]+\\]|([\\w-]+\\.)+[\\w-]+)(:[0-9]{1,5})?(\\/[^\\s]*)?\\b\"\nrtp_regex = r\"^(.*?),(rtp://.*)?$\"\ntxt_regex = r\"^(.*?)(?:,)?((?!#genre#)\" + url_regex + r\")?$\"\nm3u_regex = r\"^#EXTINF:-1.*?,(.*?)\\n\" + url_regex + r\"$\"\ndef setup_logging():\n    \"\"\"",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "log_file",
+        "kind": 5,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "log_file = \"result_new.log\"\nlog_path = os.path.join(log_dir, log_file)\nhandler = None\nurl_regex = r\"\\b((https?):\\/\\/)?(\\[[0-9a-fA-F:]+\\]|([\\w-]+\\.)+[\\w-]+)(:[0-9]{1,5})?(\\/[^\\s]*)?\\b\"\nrtp_regex = r\"^(.*?),(rtp://.*)?$\"\ntxt_regex = r\"^(.*?)(?:,)?((?!#genre#)\" + url_regex + r\")?$\"\nm3u_regex = r\"^#EXTINF:-1.*?,(.*?)\\n\" + url_regex + r\"$\"\ndef setup_logging():\n    \"\"\"\n    Setup logging",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "log_path",
+        "kind": 5,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "log_path = os.path.join(log_dir, log_file)\nhandler = None\nurl_regex = r\"\\b((https?):\\/\\/)?(\\[[0-9a-fA-F:]+\\]|([\\w-]+\\.)+[\\w-]+)(:[0-9]{1,5})?(\\/[^\\s]*)?\\b\"\nrtp_regex = r\"^(.*?),(rtp://.*)?$\"\ntxt_regex = r\"^(.*?)(?:,)?((?!#genre#)\" + url_regex + r\")?$\"\nm3u_regex = r\"^#EXTINF:-1.*?,(.*?)\\n\" + url_regex + r\"$\"\ndef setup_logging():\n    \"\"\"\n    Setup logging\n    \"\"\"",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "handler",
+        "kind": 5,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "handler = None\nurl_regex = r\"\\b((https?):\\/\\/)?(\\[[0-9a-fA-F:]+\\]|([\\w-]+\\.)+[\\w-]+)(:[0-9]{1,5})?(\\/[^\\s]*)?\\b\"\nrtp_regex = r\"^(.*?),(rtp://.*)?$\"\ntxt_regex = r\"^(.*?)(?:,)?((?!#genre#)\" + url_regex + r\")?$\"\nm3u_regex = r\"^#EXTINF:-1.*?,(.*?)\\n\" + url_regex + r\"$\"\ndef setup_logging():\n    \"\"\"\n    Setup logging\n    \"\"\"\n    global handler",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "url_regex",
+        "kind": 5,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "url_regex = r\"\\b((https?):\\/\\/)?(\\[[0-9a-fA-F:]+\\]|([\\w-]+\\.)+[\\w-]+)(:[0-9]{1,5})?(\\/[^\\s]*)?\\b\"\nrtp_regex = r\"^(.*?),(rtp://.*)?$\"\ntxt_regex = r\"^(.*?)(?:,)?((?!#genre#)\" + url_regex + r\")?$\"\nm3u_regex = r\"^#EXTINF:-1.*?,(.*?)\\n\" + url_regex + r\"$\"\ndef setup_logging():\n    \"\"\"\n    Setup logging\n    \"\"\"\n    global handler\n    if not os.path.exists(log_dir):",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "rtp_regex",
+        "kind": 5,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "rtp_regex = r\"^(.*?),(rtp://.*)?$\"\ntxt_regex = r\"^(.*?)(?:,)?((?!#genre#)\" + url_regex + r\")?$\"\nm3u_regex = r\"^#EXTINF:-1.*?,(.*?)\\n\" + url_regex + r\"$\"\ndef setup_logging():\n    \"\"\"\n    Setup logging\n    \"\"\"\n    global handler\n    if not os.path.exists(log_dir):\n        os.makedirs(log_dir)",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "txt_regex",
+        "kind": 5,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "txt_regex = r\"^(.*?)(?:,)?((?!#genre#)\" + url_regex + r\")?$\"\nm3u_regex = r\"^#EXTINF:-1.*?,(.*?)\\n\" + url_regex + r\"$\"\ndef setup_logging():\n    \"\"\"\n    Setup logging\n    \"\"\"\n    global handler\n    if not os.path.exists(log_dir):\n        os.makedirs(log_dir)\n    handler = RotatingFileHandler(log_path, encoding=\"utf-8\")",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "m3u_regex",
+        "kind": 5,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "m3u_regex = r\"^#EXTINF:-1.*?,(.*?)\\n\" + url_regex + r\"$\"\ndef setup_logging():\n    \"\"\"\n    Setup logging\n    \"\"\"\n    global handler\n    if not os.path.exists(log_dir):\n        os.makedirs(log_dir)\n    handler = RotatingFileHandler(log_path, encoding=\"utf-8\")\n    logging.basicConfig(",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "open_keep_all",
+        "kind": 5,
+        "importPath": "utils.channel",
+        "description": "utils.channel",
+        "peekOfCode": "open_keep_all = config.getboolean(\"Settings\", \"open_keep_all\", fallback=False)\ndef format_channel_name(name):\n    \"\"\"\n    Format the channel name with sub and replace and lower\n    \"\"\"\n    if open_keep_all:\n        return name\n    cc = OpenCC(\"t2s\")\n    name = cc.convert(name)\n    sub_pattern = r\"-|_|\\((.*?)\\)|\\（(.*?)\\）|\\[(.*?)\\]|\\「(.*?)\\」| |｜|频道|普清|标清|高清|HD|hd|超清|超高|超高清|中央|央视|台|电信|联通|移动\"",
+        "detail": "utils.channel",
+        "documentation": {}
+    },
+    {
+        "label": "resource_path",
+        "kind": 2,
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "peekOfCode": "def resource_path(relative_path, persistent=False):\n    \"\"\"\n    Get the resource path\n    \"\"\"\n    base_path = os.path.abspath(\".\")\n    total_path = os.path.join(base_path, relative_path)\n    if persistent or os.path.exists(total_path):\n        return total_path\n    else:\n        try:",
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_config",
+        "kind": 2,
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "peekOfCode": "def get_config():\n    \"\"\"\n    Get the config\n    \"\"\"\n    config_parser = configparser.ConfigParser()\n    user_config_path = resource_path(\"config/user_config.ini\")\n    default_config_path = resource_path(\"config/config.ini\")\n    config_files = [user_config_path, default_config_path]\n    for config_file in config_files:\n        if os.path.exists(config_file):",
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "save_config",
+        "kind": 2,
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "peekOfCode": "def save_config():\n    \"\"\"\n    Save config with write\n    \"\"\"\n    user_config_file = \"config/\" + (\n        \"user_config.ini\"\n        if os.path.exists(resource_path(\"user_config.ini\"))\n        else \"config.ini\"\n    )\n    user_config_path = resource_path(user_config_file, persistent=True)",
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "copy_config",
+        "kind": 2,
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "peekOfCode": "def copy_config():\n    user_source_file = resource_path(\n        config.get(\"Settings\", \"source_file\", fallback=\"config/demo.txt\")\n    )\n    user_config_path = resource_path(\"config/user_config.ini\")\n    default_config_path = resource_path(\"config/config.ini\")\n    user_config_file = (\n        user_config_path if os.path.exists(user_config_path) else default_config_path\n    )\n    dest_folder = os.path.join(os.getcwd(), \"config\")",
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "peekOfCode": "config = get_config()\ndef save_config():\n    \"\"\"\n    Save config with write\n    \"\"\"\n    user_config_file = \"config/\" + (\n        \"user_config.ini\"\n        if os.path.exists(resource_path(\"user_config.ini\"))\n        else \"config.ini\"\n    )",
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "retry_func",
+        "kind": 2,
+        "importPath": "utils.retry",
+        "description": "utils.retry",
+        "peekOfCode": "def retry_func(func, retries=max_retries, name=\"\"):\n    \"\"\"\n    Retry the function\n    \"\"\"\n    for i in range(retries):\n        try:\n            sleep(1)\n            return func()\n        except Exception as e:\n            if name and i < retries - 1:",
+        "detail": "utils.retry",
+        "documentation": {}
+    },
+    {
+        "label": "locate_element_with_retry",
+        "kind": 2,
+        "importPath": "utils.retry",
+        "description": "utils.retry",
+        "peekOfCode": "def locate_element_with_retry(driver, locator, timeout=timeout, retries=max_retries):\n    \"\"\"\n    Locate the element with retry\n    \"\"\"\n    wait = WebDriverWait(driver, timeout)\n    for _ in range(retries):\n        try:\n            return wait.until(EC.presence_of_element_located(locator))\n        except TimeoutException:\n            driver.refresh()",
+        "detail": "utils.retry",
+        "documentation": {}
+    },
+    {
+        "label": "find_clickable_element_with_retry",
+        "kind": 2,
+        "importPath": "utils.retry",
+        "description": "utils.retry",
+        "peekOfCode": "def find_clickable_element_with_retry(\n    driver, locator, timeout=timeout, retries=max_retries\n):\n    \"\"\"\n    Find the clickable element with retry\n    \"\"\"\n    wait = WebDriverWait(driver, timeout)\n    for _ in range(retries):\n        try:\n            return wait.until(EC.element_to_be_clickable(locator))",
+        "detail": "utils.retry",
+        "documentation": {}
+    },
+    {
+        "label": "max_retries",
+        "kind": 5,
+        "importPath": "utils.retry",
+        "description": "utils.retry",
+        "peekOfCode": "max_retries = 2\ntimeout = config.getint(\"Settings\", \"request_timeout\", fallback=10)\ndef retry_func(func, retries=max_retries, name=\"\"):\n    \"\"\"\n    Retry the function\n    \"\"\"\n    for i in range(retries):\n        try:\n            sleep(1)\n            return func()",
+        "detail": "utils.retry",
+        "documentation": {}
+    },
+    {
+        "label": "timeout",
+        "kind": 5,
+        "importPath": "utils.retry",
+        "description": "utils.retry",
+        "peekOfCode": "timeout = config.getint(\"Settings\", \"request_timeout\", fallback=10)\ndef retry_func(func, retries=max_retries, name=\"\"):\n    \"\"\"\n    Retry the function\n    \"\"\"\n    for i in range(retries):\n        try:\n            sleep(1)\n            return func()\n        except Exception as e:",
+        "detail": "utils.retry",
+        "documentation": {}
+    },
+    {
+        "label": "is_ffmpeg_installed",
+        "kind": 2,
+        "importPath": "utils.speed",
+        "description": "utils.speed",
+        "peekOfCode": "def is_ffmpeg_installed():\n    \"\"\"\n    Check ffmpeg is installed\n    \"\"\"\n    try:\n        result = subprocess.run(\n            [\"ffmpeg\", \"-version\"], stdout=subprocess.PIPE, stderr=subprocess.PIPE\n        )\n        return result.returncode == 0\n    except FileNotFoundError:",
+        "detail": "utils.speed",
+        "documentation": {}
+    },
+    {
+        "label": "get_video_info",
+        "kind": 2,
+        "importPath": "utils.speed",
+        "description": "utils.speed",
+        "peekOfCode": "def get_video_info(video_info):\n    \"\"\"\n    Get the video info\n    \"\"\"\n    frame_size = float(\"inf\")\n    resolution = None\n    if video_info is not None:\n        info_data = video_info.replace(\" \", \"\")\n        matches = re.findall(r\"frame=(\\d+)\", info_data)\n        if matches:",
+        "detail": "utils.speed",
+        "documentation": {}
+    },
+    {
+        "label": "add_info_url",
+        "kind": 2,
+        "importPath": "utils.speed",
+        "description": "utils.speed",
+        "peekOfCode": "def add_info_url(url, info):\n    \"\"\"\n    Format the url\n    \"\"\"\n    separator = \"|\" if \"$\" in url else \"$\"\n    url += f\"{separator}{info}\"\n    return url\nspeed_cache = {}\nasync def get_speed_by_info(\n    url_info, ffmpeg, semaphore, ipv6_proxy=None, callback=None",
+        "detail": "utils.speed",
+        "documentation": {}
+    },
+    {
+        "label": "timeout",
+        "kind": 5,
+        "importPath": "utils.speed",
+        "description": "utils.speed",
+        "peekOfCode": "timeout = config.getint(\"Settings\", \"sort_timeout\", fallback=5)\nasync def get_speed(url, timeout=timeout, proxy=None):\n    \"\"\"\n    Get the speed of the url\n    \"\"\"\n    async with ClientSession(\n        connector=TCPConnector(verify_ssl=False), trust_env=True\n    ) as session:\n        start = time()\n        end = None",
+        "detail": "utils.speed",
+        "documentation": {}
+    },
+    {
+        "label": "speed_cache",
+        "kind": 5,
+        "importPath": "utils.speed",
+        "description": "utils.speed",
+        "peekOfCode": "speed_cache = {}\nasync def get_speed_by_info(\n    url_info, ffmpeg, semaphore, ipv6_proxy=None, callback=None\n):\n    \"\"\"\n    Get the info with speed\n    \"\"\"\n    async with semaphore:\n        url, _, resolution, _ = url_info\n        url_info = list(url_info)",
+        "detail": "utils.speed",
+        "documentation": {}
+    },
+    {
+        "label": "response_time_weight",
+        "kind": 5,
+        "importPath": "utils.speed",
+        "description": "utils.speed",
+        "peekOfCode": "response_time_weight = config.getfloat(\"Settings\", \"response_time_weight\", fallback=0.5)\nresolution_weight = config.getfloat(\"Settings\", \"resolution_weight\", fallback=0.5)\nasync def sort_urls_by_speed_and_resolution(\n    data, ffmpeg=False, ipv6_proxy=None, callback=None\n):\n    \"\"\"\n    Sort by speed and resolution\n    \"\"\"\n    semaphore = asyncio.Semaphore(20)\n    response = await asyncio.gather(",
+        "detail": "utils.speed",
+        "documentation": {}
+    },
+    {
+        "label": "resolution_weight",
+        "kind": 5,
+        "importPath": "utils.speed",
+        "description": "utils.speed",
+        "peekOfCode": "resolution_weight = config.getfloat(\"Settings\", \"resolution_weight\", fallback=0.5)\nasync def sort_urls_by_speed_and_resolution(\n    data, ffmpeg=False, ipv6_proxy=None, callback=None\n):\n    \"\"\"\n    Sort by speed and resolution\n    \"\"\"\n    semaphore = asyncio.Semaphore(20)\n    response = await asyncio.gather(\n        *(",
+        "detail": "utils.speed",
+        "documentation": {}
+    },
+    {
+        "label": "format_interval",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def format_interval(t):\n    \"\"\"\n    Formats a number of seconds as a clock time, [H:]MM:SS\n    Parameters\n    ----------\n    t  : int or float\n        Number of seconds.\n    Returns\n    -------\n    out  : str",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_pbar_remaining",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def get_pbar_remaining(n=0, total=0, start_time=None):\n    \"\"\"\n    Get the remaining time of the progress bar\n    \"\"\"\n    try:\n        elapsed = time() - start_time\n        completed_tasks = n\n        if completed_tasks > 0:\n            avg_time_per_task = elapsed / completed_tasks\n            remaining_tasks = total - completed_tasks",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "update_file",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def update_file(final_file, old_file, copy=False):\n    \"\"\"\n    Update the file\n    \"\"\"\n    old_file_path = resource_path(old_file, persistent=True)\n    final_file_path = resource_path(final_file, persistent=True)\n    if os.path.exists(old_file_path):\n        if copy:\n            shutil.copyfile(old_file_path, final_file_path)\n        else:",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "filter_by_date",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def filter_by_date(data):\n    \"\"\"\n    Filter by date and limit\n    \"\"\"\n    default_recent_days = 30\n    use_recent_days = config.getint(\"Settings\", \"recent_days\", fallback=30)\n    if not isinstance(use_recent_days, int) or use_recent_days <= 0:\n        use_recent_days = default_recent_days\n    start_date = datetime.datetime.now() - datetime.timedelta(days=use_recent_days)\n    recent_data = []",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_soup",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def get_soup(source):\n    \"\"\"\n    Get soup from source\n    \"\"\"\n    source = re.sub(\n        r\"<!--.*?-->\",\n        \"\",\n        source,\n        flags=re.DOTALL,\n    )",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_resolution_value",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def get_resolution_value(resolution_str):\n    \"\"\"\n    Get resolution value from string\n    \"\"\"\n    pattern = r\"(\\d+)[xX*](\\d+)\"\n    match = re.search(pattern, resolution_str)\n    if match:\n        width, height = map(int, match.groups())\n        return width * height\n    else:",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_total_urls_from_info_list",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def get_total_urls_from_info_list(infoList, ipv6=False):\n    \"\"\"\n    Get the total urls from info list\n    \"\"\"\n    open_filter_resolution = config.getboolean(\n        \"Settings\", \"open_filter_resolution\", fallback=True\n    )\n    ipv_type_prefer = [\n        type.strip().lower()\n        for type in config.get(\"Settings\", \"ipv_type_prefer\", fallback=\"ipv4\").split(",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_total_urls_from_sorted_data",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def get_total_urls_from_sorted_data(data):\n    \"\"\"\n    Get the total urls with filter by date and depulicate from sorted data\n    \"\"\"\n    total_urls = []\n    urls_limit = config.getint(\"Settings\", \"urls_limit\", fallback=30)\n    if len(data) > urls_limit:\n        total_urls = [url for (url, _, _, _), _ in filter_by_date(data)]\n    else:\n        total_urls = [url for (url, _, _, _), _ in data]",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "is_ipv6",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def is_ipv6(url):\n    \"\"\"\n    Check if the url is ipv6\n    \"\"\"\n    try:\n        host = urllib.parse.urlparse(url).hostname\n        ipaddress.IPv6Address(host)\n        return True\n    except ValueError:\n        return False",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "check_ipv6_support",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def check_ipv6_support():\n    \"\"\"\n    Check if the system network supports ipv6\n    \"\"\"\n    url = \"https://ipv6.tokyo.test-ipv6.com/ip/?callback=?&testdomain=test-ipv6.com&testname=test_aaaa\"\n    try:\n        print(\"Checking if your network supports IPv6...\")\n        response = requests.get(url, timeout=10)\n        if response.status_code == 200:\n            print(\"Your network supports IPv6\")",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "check_url_ipv_type",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def check_url_ipv_type(url):\n    \"\"\"\n    Check if the url is compatible with the ipv type in the config\n    \"\"\"\n    ipv6 = is_ipv6(url)\n    return (\n        (ipv_type == \"ipv4\" and not ipv6)\n        or (ipv_type == \"ipv6\" and ipv6)\n        or ipv_type == \"全部\"\n        or ipv_type == \"all\"",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "check_by_domain_blacklist",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def check_by_domain_blacklist(url):\n    \"\"\"\n    Check by domain blacklist\n    \"\"\"\n    domain_blacklist = [\n        (parsed_domain.netloc if parsed_domain.scheme else stripped_domain)\n        for domain in config.get(\"Settings\", \"domain_blacklist\", fallback=\"\").split(\",\")\n        if (stripped_domain := domain.strip())\n        and (parsed_domain := urlparse(stripped_domain))\n    ]",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "check_by_url_keywords_blacklist",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def check_by_url_keywords_blacklist(url):\n    \"\"\"\n    Check by URL blacklist keywords\n    \"\"\"\n    url_keywords_blacklist = [\n        keyword.strip()\n        for keyword in config.get(\n            \"Settings\", \"url_keywords_blacklist\", fallback=\"\"\n        ).split(\",\")\n        if keyword.strip()",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "check_url_by_patterns",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def check_url_by_patterns(url):\n    \"\"\"\n    Check the url by patterns\n    \"\"\"\n    return (\n        check_url_ipv_type(url)\n        and check_by_domain_blacklist(url)\n        and check_by_url_keywords_blacklist(url)\n    )\ndef filter_urls_by_patterns(urls):",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "filter_urls_by_patterns",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def filter_urls_by_patterns(urls):\n    \"\"\"\n    Filter urls by patterns\n    \"\"\"\n    urls = [url for url in urls if check_url_ipv_type(url)]\n    urls = [url for url in urls if check_by_domain_blacklist(url)]\n    urls = [url for url in urls if check_by_url_keywords_blacklist(url)]\n    return urls\ndef merge_objects(*objects):\n    \"\"\"",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "merge_objects",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def merge_objects(*objects):\n    \"\"\"\n    Merge objects\n    \"\"\"\n    def merge_dicts(dict1, dict2):\n        for key, value in dict2.items():\n            if key in dict1:\n                if isinstance(dict1[key], dict) and isinstance(value, dict):\n                    merge_dicts(dict1[key], value)\n                elif isinstance(dict1[key], set):",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_ip_address",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def get_ip_address():\n    \"\"\"\n    Get the IP address\n    \"\"\"\n    s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)\n    try:\n        s.connect((\"10.255.255.255\", 1))\n        IP = s.getsockname()[0]\n    except Exception:\n        IP = \"127.0.0.1\"",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "convert_to_m3u",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def convert_to_m3u():\n    \"\"\"\n    Convert result txt to m3u format\n    \"\"\"\n    user_final_file = config.get(\"Settings\", \"final_file\", fallback=\"output/result.txt\")\n    if os.path.exists(resource_path(user_final_file)):\n        with open(resource_path(user_final_file), \"r\", encoding=\"utf-8\") as file:\n            m3u_output = '#EXTM3U x-tvg-url=\"https://live.fanmingming.com/e.xml\"\\n'\n            current_group = None\n            for line in file:",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_result_file_content",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def get_result_file_content(show_result=False):\n    \"\"\"\n    Get the content of the result file\n    \"\"\"\n    user_final_file = config.get(\"Settings\", \"final_file\", fallback=\"output/result.txt\")\n    if config.getboolean(\"Settings\", \"open_m3u_result\", fallback=True):\n        user_final_file = os.path.splitext(resource_path(user_final_file))[0] + \".m3u\"\n        if show_result == False:\n            return send_file(user_final_file, as_attachment=True)\n    with open(user_final_file, \"r\", encoding=\"utf-8\") as file:",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "remove_duplicates_from_tuple_list",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def remove_duplicates_from_tuple_list(tuple_list, seen, flag=None):\n    \"\"\"\n    Remove duplicates from tuple list\n    \"\"\"\n    unique_list = []\n    for item in tuple_list:\n        part = item[0] if flag is None else item[0].rsplit(flag, 1)[-1]\n        if part not in seen:\n            seen.add(part)\n            unique_list.append(item)",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "process_nested_dict",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def process_nested_dict(data, seen, flag=None):\n    \"\"\"\n    Process nested dict\n    \"\"\"\n    for key, value in data.items():\n        if isinstance(value, dict):\n            process_nested_dict(value, seen, flag)\n        elif isinstance(value, list):\n            data[key] = remove_duplicates_from_tuple_list(value, seen, flag)\nip_pattern = re.compile(",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_ip",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def get_ip(url):\n    \"\"\"\n    Get the IP address with flags\n    \"\"\"\n    matcher = ip_pattern.search(url)\n    if matcher:\n        return matcher.group(1)\n    return None\ndef format_url_with_cache(url, cache=None):\n    \"\"\"",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "format_url_with_cache",
+        "kind": 2,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "def format_url_with_cache(url, cache=None):\n    \"\"\"\n    Format the URL with cache\n    \"\"\"\n    if not cache:\n        cache = get_ip(url) or \"\"\n    return f\"{url}$cache:{cache}\"",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "ipv_type",
+        "kind": 5,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "ipv_type = config.get(\"Settings\", \"ipv_type\", fallback=\"全部\").lower()\ndef check_url_ipv_type(url):\n    \"\"\"\n    Check if the url is compatible with the ipv type in the config\n    \"\"\"\n    ipv6 = is_ipv6(url)\n    return (\n        (ipv_type == \"ipv4\" and not ipv6)\n        or (ipv_type == \"ipv6\" and ipv6)\n        or ipv_type == \"全部\"",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "ip_pattern",
+        "kind": 5,
+        "importPath": "utils.tools",
+        "description": "utils.tools",
+        "peekOfCode": "ip_pattern = re.compile(\n    r\"\"\"\n    (\n        (\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3})       # IPv4\n        |([a-zA-Z0-9.-]+\\.[a-zA-Z]{2,})            # Domain\n        |(\\[([0-9a-fA-F:]+)\\])                     # IPv6\n    )\n    (?::(\\d+))?                                    # Port\n    \"\"\",\n    re.VERBOSE,",
+        "detail": "utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateSource",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class UpdateSource:\n    def __init__(self):\n        self.run_ui = False\n        self.tasks = []\n        self.channel_items = {}\n        self.hotel_fofa_result = {}\n        self.hotel_tonkiang_result = {}\n        self.multicast_result = {}\n        self.subscribe_result = {}\n        self.online_search_result = {}",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "show_index",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def show_index():\n    return get_result_file_content()\n@app.route(\"/result\")\ndef show_result():\n    return get_result_file_content(show_result=True)\n@app.route(\"/log\")\ndef show_log():\n    user_log_file = \"output/\" + (\n        \"user_result.log\" if os.path.exists(\"config/user_config.ini\") else \"result.log\"\n    )",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "show_result",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def show_result():\n    return get_result_file_content(show_result=True)\n@app.route(\"/log\")\ndef show_log():\n    user_log_file = \"output/\" + (\n        \"user_result.log\" if os.path.exists(\"config/user_config.ini\") else \"result.log\"\n    )\n    with open(user_log_file, \"r\", encoding=\"utf-8\") as file:\n        content = file.read()\n    return render_template_string(",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "show_log",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def show_log():\n    user_log_file = \"output/\" + (\n        \"user_result.log\" if os.path.exists(\"config/user_config.ini\") else \"result.log\"\n    )\n    with open(user_log_file, \"r\", encoding=\"utf-8\") as file:\n        content = file.read()\n    return render_template_string(\n        \"<head><link rel='icon' href='{{ url_for('static', filename='images/favicon.ico') }}' type='image/x-icon'></head><pre>{{ content }}</pre>\",\n        content=content,\n    )",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "scheduled_task",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def scheduled_task():\n    if config.getboolean(\"Settings\", \"open_update\", fallback=True):\n        loop = asyncio.new_event_loop()\n        asyncio.set_event_loop(loop)\n        update_source = UpdateSource()\n        loop.run_until_complete(update_source.start())\ndef run_service():\n    if not os.environ.get(\"GITHUB_ACTIONS\"):\n        ip_address = get_ip_address()\n        print(f\"You can use this url to watch the live stream: {ip_address}\")",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "run_service",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def run_service():\n    if not os.environ.get(\"GITHUB_ACTIONS\"):\n        ip_address = get_ip_address()\n        print(f\"You can use this url to watch the live stream: {ip_address}\")\n        print(f\"Result detail: {ip_address}/result\")\n        print(f\"Log detail: {ip_address}/log\")\n        app.run(host=\"0.0.0.0\", port=8000)\nif __name__ == \"__main__\":\n    if len(sys.argv) == 1 or (len(sys.argv) > 1 and sys.argv[1] == \"scheduled_task\"):\n        scheduled_task()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = Flask(__name__)\natexit.register(cleanup_logging)\n@app.route(\"/\")\ndef show_index():\n    return get_result_file_content()\n@app.route(\"/result\")\ndef show_result():\n    return get_result_file_content(show_result=True)\n@app.route(\"/log\")\ndef show_log():",
+        "detail": "main",
+        "documentation": {}
+    }
+]
